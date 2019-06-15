@@ -1,0 +1,15 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.head{padding: 30px;display: flex;  flex-wrap: wrap; }
+.pics{display: flex;flex-wrap: wrap;}
+#myname { font-size: 90px; color: red;margin: 1px; padding: 2px;}
+#job {font-size: 40px ; color: #2d3c49; margin: 1px;padding: 2px;}
+hr { height: 4px; color: #7d97ad; background-color: #7d97ad; width: 100%;}
+.about-me,.Contact-details,.Social-media-links,.work{font-size: 30px; padding: 5px; margin: 10px;}
+.pic{max-width: 500px; max-height: 180px; padding: 10px;}
+.logo {  max-height: 150px;max-width: 200px; }
